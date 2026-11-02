@@ -1,0 +1,6 @@
+# tested with Python 3.12, torch 2.8.0, transformers 5.14.1, numpy 2.5.3
+torch>=2.8
+transformers>=5.14
+numpy
+pyarrow
+huggingface_hub
